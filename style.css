@@ -1,0 +1,11 @@
+* {
+    background-color:#FFFFF0;
+}
+.titleGame {
+    color:blue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0;
+    margin-left: 5px;
+    position: relative;
+}
+
